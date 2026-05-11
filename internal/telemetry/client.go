@@ -12,8 +12,8 @@ import (
 )
 
 const (
-	_endpoint      = "https://petl.dev/api/telemetry/ingest"
-	_token         = "265d1fe8-9841-44e6-892b-ca1b54952fc0"
+	_endpoint      = ""
+	_token         = ""
 	_envNoTelKey   = "CAPTAIN_API_V2_NO_TELEMETRY"
 	_batchSize     = 20
 	_batchInterval = 10 * time.Second
